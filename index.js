@@ -1,7 +1,7 @@
 let resultado;
 
- let sum = (a, b = 0) =>{
-    return resultado = a + b;
+ let sum = (a, b, c = 0) =>{
+    return resultado = a + b + c;
  }
 
  let subs = (a, b = 0) =>{
