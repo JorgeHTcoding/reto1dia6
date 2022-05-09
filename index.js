@@ -1,8 +1,14 @@
 let resultado;
 
+
 //  let sum = (a, b = 0) =>{
 //     return resultado = a + b;
 //  }
+
+ let sum1 = (a, b, c = 0) =>{
+    return resultado = a + b + c;
+ }
+
 
  let subs = (a, b = 0) =>{
     return resultado = a - b;
@@ -19,7 +25,7 @@ let resultado;
     return resultado = a*a;
  }
 
- module.exports= {sum, subs, mult, div, square}
+ module.exports= {sum1, subs, mult, div, square}
 
 
 
