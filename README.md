@@ -8,4 +8,8 @@ Aprovechamos para subir todo el proyecto al repositorio correspondiente de githu
 
 Usamos git checkout rama 1 para cambiarnos a la rama 1 como indica el ejercicio.
 
+Modificamos el archivo index para borrar la función de suma y lo guardamos. Lo subimos con add commit y push desde la rama 1.
+
+Usamos el comando git checkout para movernos a la rama main y usamos el comando git merge rama1 para fusionarlo con la rama principal. (no nos ha dado ningún conflicto)
+
 
