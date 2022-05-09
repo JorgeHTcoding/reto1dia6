@@ -16,6 +16,8 @@ Volvemos a hacer el mismo proceso pero despues de habernos movido a rama2, modif
 
 En este caso nos genera un conflicto con el automergin que nos pide que solucionemos el conflicto en index y lo volvamos a subir con commit.
 
-Lo solucionamos en el visual y lo subimos de nuevo
+Lo solucionamos en el visual y lo subimos de nuevo sin conflicto ninguno
+
+
 
 
